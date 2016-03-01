@@ -13,4 +13,4 @@ This will show at:
 `http://localhost:8888`
 
 ### Contributors:
--[Scott Schaffer](https://github.com/scottpschaffer
+-[Scott Schaffer](https://github.com/scottpschaffer)
