@@ -14,4 +14,3 @@ This will show at:
 
 ### Contributors:
 -[Scott Schaffer](https://github.com/scottpschaffer)
-# HTML-Blog-New
